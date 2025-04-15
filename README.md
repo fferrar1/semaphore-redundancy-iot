@@ -72,12 +72,12 @@ Um botão (ou jumper) é utilizado para **simular uma falha no semáforo princip
 - Conectar o sistema à internet (IoT) para monitoramento remoto de falhas.
 - Usar dois Arduinos reais para redundância completa com comunicação serial.
 
----
+---  
 
 ## 🧑‍💻 Autor
 
-**Bernardo Braga**
-**Eduardo Moraes**
+**Bernardo Braga**  
+**Eduardo Moraes**  
 **Fernanda Ferrari**  
 Projeto desenvolvido como exemplo de aplicação de redundância em sistemas embarcados com Arduino.
 
